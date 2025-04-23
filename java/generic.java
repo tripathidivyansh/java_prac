@@ -11,7 +11,6 @@ class Generic<t>{
 }
 
 public class generic {
-    
     public static void main(String[] args) {
         Generic<Integer> obj = new Generic<>();
 
